@@ -1,0 +1,4 @@
+İkbal Karadeli:100,100,100
+Osman Koca:20,60,100
+Veli Korkmaz:40,60,70
+Mehmet Efe:90,65,80
